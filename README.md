@@ -1,14 +1,5 @@
 <h2 align="center">Vietnam Stock Market data loader using Python</h2>
 
----
-<div id="badges" align="center">
-<img src="https://img.shields.io/pypi/pyversions/vnstock?logoColor=brown&style=plastic" alt= "Version"/>
-<img src="https://img.shields.io/pypi/dm/vnstock" alt="Download Badge"/>
-<img src="https://img.shields.io/github/last-commit/thinh-vu/vnstock" alt="Commit Badge"/>
-<img src="https://img.shields.io/github/license/thinh-vu/vnstock?color=red" alt="License Badge"/>
-</div>
-
----
 
 🌐 View in **[Vietnamese](https://github.com/thinh-vu/vnstock/blob/main/README.md)**
 
